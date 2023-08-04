@@ -19,6 +19,5 @@
 #### 🚀 Goals
 - 🎯 My goal is to become a proficient Full Stack Web Developer and contribute to exciting projects.
 
-Feel free to reach out to me if you have any questions, suggestions, or just want to connect. Happy coding! 🚀
 
 
